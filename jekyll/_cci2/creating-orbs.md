@@ -17,6 +17,7 @@ The following high-level steps will enable you to publish your first orb:
 
 1. Claim a namespace (assuming you don't yet have one), eg:
 `circleci namespace create sandbox github CircleCI-Public`
+In this example we are creating the `sandbox` namespace tied to the github organization `CircleCI-Public`.
 
 **Note** Namespaces cannot be removed or renamed once you have claimed a namespace.
 
